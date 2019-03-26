@@ -2,9 +2,9 @@
 
 ### Visual Studio Code
 
-**Windows**  
+**Windows Cheatsheet**  
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf  
-**macOS**  
+**macOS Cheatsheet**  
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf  
 **Keybindings**  
 https://code.visualstudio.com/docs/getstarted/keybindings  
@@ -16,12 +16,13 @@ http://docs.sublimetext.info/en/latest/extensibility/snippets.html
 **Completions**  
 http://docs.sublimetext.info/en/latest/extensibility/completions.html  
 
-**Windows/Linux**  
+**Windows/Linux Cheatsheet**  
 http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html  
-**macOS**  
+**macOS Cheatsheet**  
 http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html  
 
 ### Emmet
+https://emmet.io/  
 **Cheatsheet**  
 https://docs.emmet.io/cheat-sheet/  
 
